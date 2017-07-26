@@ -1,0 +1,26 @@
+{
+  "name": "karma-jasmine-seed",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A simple seed to learn how to use Karma and Jasmine",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmbarker90/karma-jasmine-seed.git"
+  },
+  "author": "Ben Barker (@bmbarker90)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmbarker90/karma-jasmine-seed/issues"
+  },
+  "homepage": "https://github.com/bmbarker90/karma-jasmine-seed#readme",
+  "devDependencies": {
+    "jasmine-core": "^2.6.4",
+    "karma": "^1.7.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.0"
+  }
+}
